@@ -7,4 +7,4 @@ Displays current weather using API of selected City.
 <img src="screen_shot.png">
 <br><br>
 
-*Background Image rights are reserved to the repective ownner
+*Background Image rights are reserved to the repective owner
